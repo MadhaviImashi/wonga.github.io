@@ -1,5 +1,4 @@
-# 22_23-J 08
-**WONGA**: Smart Personal Finance Manager
+# WONGA : Smart Personal Finance Manager
 
 ## Group Details
 | Student ID | Student Name | Usernames | Research Component |
