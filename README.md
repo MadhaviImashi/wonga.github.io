@@ -7,7 +7,7 @@
 | ------ | ------ | ------ | ------ |
 | IT19974910 | Hapugala HAVV | VenuraHapugala | Develop an effective way to automatedly classify expenses to correct expense categories, Give user specific expense insights for each expense category with collected and analyzed expense data |
 | IT19972176 | Jayawardana GVHD | HansakaDilshanJayawardana | Automatically read and extract expenses from bills, and SMS using image processing and NLP |
-| IT19961422 | Uyanahewa MIR | MadhaviImashi | Develop a mechanism to extract information from the user’s digital calendar and predict expenses for future events |
+| IT19961422 | Uyanahewa MIR | MadhaviImashi | Develop a mechanism to extract information from the user’s digital calendar and predict expenses for future events that are likely to incur expenses to the user |
 | IT19975764 | Bandara MBDN | dilendran | Develop an effective way to plan next month’s budget by arranging a personalized automatic solution for the users and assisting them by providing valuable information about their current financial capabilities |
 
 ## Main Objective
